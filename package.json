@@ -1,8 +1,8 @@
 {
-  "name": "inioc-auth-crud",
+  "name": "ionioc-auth-crud",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Luis Cordero",
+  "homepage": "https://luiscordero29.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -54,5 +54,5 @@
     "tslint": "~5.11.0",
     "typescript": "~2.9.2"
   },
-  "description": "An Ionic project"
+  "description": "Curso de Ionic 4"
 }
